@@ -31,15 +31,15 @@
   <meta name="author" content="">
 
   <!-- Le styles -->
-  <link href="assets/css/bootstrap.css" rel="stylesheet">
-  <link href="assets/css/movie.css" rel="stylesheet">
+  <link href="../assets/css/bootstrap.css" rel="stylesheet">
+  <link href="../assets/css/movie.css" rel="stylesheet">
   <style>
     body {
       padding-top: 60px;
       /* 60px to make the container go all the way to the bottom of the topbar */
     }
   </style>
-  <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+  <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
 </head>
 
 <body>
@@ -61,7 +61,7 @@
   <h1>Moviefun</h1>
 
   <p>Please select one of the following links:</p>
-  <a href="setup.jsp">Setup</a> - Sets up the application with some sample data<br/>
+  <a href="../setup">Setup</a> - Sets up the application with some sample data<br/>
   <a href="moviefun">Index</a> - Start the application<br/>
 
 </div>
