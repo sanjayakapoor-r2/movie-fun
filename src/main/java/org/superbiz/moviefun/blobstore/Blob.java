@@ -1,3 +1,8 @@
+package org.superbiz.moviefun.blobstore;
+
+
+import java.io.InputStream;
+
 public class Blob {
     public final String name;
     public final InputStream inputStream;
